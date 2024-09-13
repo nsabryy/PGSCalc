@@ -3,7 +3,7 @@
 This configuration file is used to control the behavior of the PGSCalc application. Below is a description of each section and field in the configuration file:
 
 ### `VCFQuery`
-This section contains settings related to the querying of VCF (Variant Call Format) files.
+This section contains settings related to the querying of VCF (Variant Call Format) files. THIS IS THE SECTION FOR YOUR INPUT GENOTYPE DATA SPECS. 
 
 - **`input_dir`**: 
   - *Description*: The directory where the input VCF files are located.
@@ -28,7 +28,7 @@ This section contains settings related to the querying of VCF (Variant Call Form
   - *Type*: Boolean
 
 ### `PGScore`
-This section contains settings related to the polygenic score (PGS) files.
+This section contains settings related to the polygenic score (PGS) files. THIS IS THE SECTION FOR THE SCORING SPECS.
 
 - **`pgs_ids`**: 
   - *Description*: A list of PGS IDs to be used for scoring.
