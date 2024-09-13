@@ -1,0 +1,14 @@
+2024-07-22 11:43:08,976 - INFO - Starting the download of PGS scores.
+2024-07-22 11:43:11,874 - INFO - Download completed successfully.
+2024-07-22 11:43:11,875 - INFO - Creating PGScore object for PGS000922.
+2024-07-22 11:43:11,876 - INFO - Parsing scoring file for PGS000922.
+2024-07-22 11:43:11,885 - INFO - Extracting SNPs from scoring file for PGS000922.
+2024-07-22 11:43:11,897 - WARNING - Warning: Haplotype SNPs are skipped in PGS ID PGS000922. Using this scoring file may result in an inaccurate score.
+2024-07-22 11:43:11,898 - INFO - Creating PGScore object for PGS001229.
+2024-07-22 11:43:11,899 - INFO - Parsing scoring file for PGS001229.
+2024-07-22 11:43:12,005 - INFO - Extracting SNPs from scoring file for PGS001229.
+2024-07-22 11:43:15,676 - WARNING - Warning: Haplotype SNPs are skipped in PGS ID PGS001229. Using this scoring file may result in an inaccurate score.
+2024-07-22 11:43:15,682 - INFO - PGS ID: PGS000922
+2024-07-22 11:43:15,683 - INFO - First 5 SNPs: [{'chrom': 10.0, 'pos': 80166946.0, 'effect_allele': 'A', 'other_allele': 'G', 'rsID': 'rs1049550'}, {'chrom': 19.0, 'pos': 9126023.0, 'effect_allele': 'GATGGT', 'other_allele': 'G', 'rsID': 'rs111867493'}, {'chrom': 5.0, 'pos': 58491549.0, 'effect_allele': 'G', 'other_allele': 'A', 'rsID': 'rs2307117'}, {'chrom': 6.0, 'pos': 29101522.0, 'effect_allele': 'T', 'other_allele': 'C', 'rsID': 'rs2394517'}, {'chrom': 6.0, 'pos': 30790887.0, 'effect_allele': 'C', 'other_allele': 'A', 'rsID': 'rs3131044'}]
+2024-07-22 11:43:15,684 - INFO - PGS ID: PGS001229
+2024-07-22 11:43:15,684 - INFO - First 5 SNPs: [{'chrom': '1', 'pos': 817341.0, 'effect_allele': 'G', 'other_allele': 'A', 'rsID': 'rs3131972'}, {'chrom': '1', 'pos': 818725.0, 'effect_allele': 'T', 'other_allele': 'C', 'rsID': 'rs12184325'}, {'chrom': '1', 'pos': 903175.0, 'effect_allele': 'A', 'other_allele': 'C', 'rsID': 'rs4970383'}, {'chrom': '1', 'pos': 915400.0, 'effect_allele': 'T', 'other_allele': 'C', 'rsID': 'rs6657440'}, {'chrom': '1', 'pos': 946538.0, 'effect_allele': 'A', 'other_allele': 'G', 'rsID': 'rs35471880'}]

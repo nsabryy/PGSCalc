@@ -1,0 +1,12 @@
+scripts/
+scoring_results/
+input_data/
+configs/
+logs/
+testing/
+src/PGScore/scoring_files
+src/PGScore/score_package_objects
+src/PGScore/score_objects
+src/PGScore/pgscatalog_utils
+src/VCFQuery/query_objects
+src/VCFQuery/Miniconda3-latest-Linux-x86_64.shsrc/VCFQuery/Miniconda3-latest-Linux-x86_64.sh
